@@ -3,4 +3,4 @@ Repo para as soluções de trabalhos práticos da matéria Estrutura de Dados II
 
 - [Aula de 24/07/2023][1]
 
-[1]: [https://github.com/gmartinsas/IFSP-ED1I4/tree/master/24.07/projMVC]
+[1]: [https://github.com/gmartinsas/IFSP-ED1I4/tree/master/24.07/projMVC](https://github.com/gmartinsas/IFSP-ED1I4/tree/master/24.07/projMVC)https://github.com/gmartinsas/IFSP-ED1I4/tree/master/24.07/projMVC]
