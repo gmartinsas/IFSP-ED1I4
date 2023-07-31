@@ -1,0 +1,16 @@
+C:\20230724\projMVC\projMVC\bin\Debug\projMVC.exe.config
+C:\20230724\projMVC\projMVC\bin\Debug\projMVC.exe
+C:\20230724\projMVC\projMVC\bin\Debug\projMVC.pdb
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.AssemblyReference.cache
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.SuggestedBindingRedirects.cache
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.CoreCompileInputs.cache
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.exe
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.pdb
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\bin\Debug\projMVC.exe.config
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\bin\Debug\projMVC.exe
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\bin\Debug\projMVC.pdb
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\obj\Debug\projMVC.exe
+C:\Users\ariel\OneDrive\Área de Trabalho\ADS-ED2-20230724\projMVC\projMVC\obj\Debug\projMVC.pdb
