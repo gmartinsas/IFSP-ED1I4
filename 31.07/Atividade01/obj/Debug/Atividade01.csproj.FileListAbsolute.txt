@@ -1,0 +1,7 @@
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\bin\Debug\Atividade01.exe.config
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\bin\Debug\Atividade01.exe
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\bin\Debug\Atividade01.pdb
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\obj\Debug\Atividade01.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\obj\Debug\Atividade01.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\obj\Debug\Atividade01.exe
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\Atividade01\Atividade01\obj\Debug\Atividade01.pdb
