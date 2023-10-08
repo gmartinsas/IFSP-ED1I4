@@ -1,0 +1,7 @@
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\bin\Debug\02.10.exe.config
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\bin\Debug\02.10.exe
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\bin\Debug\02.10.pdb
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\obj\Debug\02.10.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\obj\Debug\02.10.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\obj\Debug\02.10.exe
+C:\Users\ariel\OneDrive\Área de Trabalho\c#\02.10\02.10\obj\Debug\02.10.pdb
