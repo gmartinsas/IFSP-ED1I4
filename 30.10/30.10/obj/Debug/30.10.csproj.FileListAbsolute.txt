@@ -1,0 +1,7 @@
+C:\Users\ariel\source\repos\30.10\30.10\obj\Debug\30.10.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\30.10\30.10\obj\Debug\30.10.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\30.10\30.10\bin\Debug\30.10.exe.config
+C:\Users\ariel\source\repos\30.10\30.10\bin\Debug\30.10.exe
+C:\Users\ariel\source\repos\30.10\30.10\bin\Debug\30.10.pdb
+C:\Users\ariel\source\repos\30.10\30.10\obj\Debug\30.10.exe
+C:\Users\ariel\source\repos\30.10\30.10\obj\Debug\30.10.pdb
