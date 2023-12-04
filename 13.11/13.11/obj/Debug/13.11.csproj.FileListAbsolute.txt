@@ -1,0 +1,7 @@
+C:\Users\ariel\source\repos\13.11\13.11\bin\Debug\13.11.exe.config
+C:\Users\ariel\source\repos\13.11\13.11\bin\Debug\13.11.exe
+C:\Users\ariel\source\repos\13.11\13.11\bin\Debug\13.11.pdb
+C:\Users\ariel\source\repos\13.11\13.11\obj\Debug\13.11.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\13.11\13.11\obj\Debug\13.11.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\13.11\13.11\obj\Debug\13.11.exe
+C:\Users\ariel\source\repos\13.11\13.11\obj\Debug\13.11.pdb

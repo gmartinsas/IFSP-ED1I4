@@ -1,0 +1,53 @@
+------------------------------------
+| Van                              | 
+|----------------------------------|
+| - id: int                        |
+| - lotacao: int                   |
+| - cheia: bool                    |
+|----------------------------------|
+| + ToString(): string (override)  |
+------------------------------------
+
+------------------------------------
+| Frota                            | 
+|----------------------------------|
+| - vans: List<Van>                |
+| - limite: int                    |
+| - viagens: int                   |
+|----------------------------------|
+| + adicionarVan(Van v): bool      |
+| + removerVan(Van v): bool        |
+| + viajou(): void                 |
+| + mostraCapacidade(): int        |
+------------------------------------
+------------------------------------
+| Garagem                          | 
+|----------------------------------|
+| - id: int                        |
+| - nome: string                   |
+| - lotacao: Queue<Van>            |
+|----------------------------------|
+| + adicionarVan(Van v): bool      |
+| + removerVan(): bool             |
+| + listaVans(): string            |
+------------------------------------
+------------------------------------------------
+| Aeroporto                                    | 
+|----------------------------------------------|
+| - nome: string                               |
+| - garagens: List<Garagem>                    |
+|----------------------------------------------|
+| + adicionarGaragem(Garagem g): void          |
+| + lotarGaragem(Frota f): void                |
+| + esvaziarGaragem(Garagem g): void           |
+------------------------------------------------
+-------------------------------------------------------------
+| Viagem                                                    | 
+|-----------------------------------------------------------|
+| - partida: Aeroporto                                      |
+| - destino: Aeroporto                                      |
+| - viajantes: Frota                                        |
+|-----------------------------------------------------------|
+| + iniciarViagem(Aeroporto p, Aeroporto d, Frota f): void  |
+| + ToString(): string (override)                           |
+-------------------------------------------------------------
