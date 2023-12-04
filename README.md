@@ -7,7 +7,8 @@ Repo para as soluções de trabalhos práticos da matéria Estrutura de Dados II
 - [Aula de 21/08/2023][4]
 - [Aula de 02/10/2023][5]
 - [Aula de 30/10/2023][6]
-- [Aula de 11/09/2023][7] 
+- [Aula de 11/09/2023][7]
+- [Aula de 13/11/2023][8]
 
 
 [1]: https://github.com/gmartinsas/IFSP-ED1I4/tree/master/24.07/projMVC
@@ -17,3 +18,4 @@ Repo para as soluções de trabalhos práticos da matéria Estrutura de Dados II
 [5]: https://github.com/gmartinsas/IFSP-ED1I4/tree/master/02.10
 [6]: https://github.com/gmartinsas/IFSP-ED1I4/tree/master/30.10
 [7]: https://github.com/gmartinsas/IFSP-ED1I4/tree/master/11.09
+[8]: https://github.com/gmartinsas/IFSP-ED1I4/tree/master/13.11
